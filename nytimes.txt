@@ -1,0 +1,269 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf400
+{\fonttbl\f0\froman\fcharset0 Times-Roman;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red255\green255\blue255;\red39\green84\blue126;
+}
+{\*\expandedcolortbl;;\cssrgb\c20000\c20000\c20000;\cssrgb\c100000\c100000\c100000;\cssrgb\c19608\c40784\c56863;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl435\sa300\partightenfactor0
+
+\f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
+It was called the Economic Opportunity Act, a measure intended to kick-start the sputtering post-recession economy in New Jersey, particularly in its struggling cities. The state would award lucrative tax breaks to businesses if they moved to New Jersey or remained in the state, creating and retaining jobs.\cb1 \
+\cb3 But before the bill was approved by the Legislature, a series of changes were made to its language in June 2013 that were intended to grant specific companies hundreds of millions of dollars in\'a0additionaltax breaks, with no public disclosure, according to interviews and documents obtained by The New York Times.\cb1 \
+\cb3 Many of the last-minute changes to drafts of the bill were made by a real estate lawyer, Kevin D. Sheehan,\'a0whose influential\'a0law firm\'a0has close ties to Democratic politicians and legislative leaders in New Jersey.\cb1 \
+\pard\pardeftab720\sl435\partightenfactor0
+\cf2 \cb3 Mr. Sheehan was allowed\'a0by lawmakers\'a0to edit drafts of the bill in ways that opened up sizable tax breaks to his firm\'92s clients, according to a marked up copy of the legislation obtained by The Times, which identifies Mr. Sheehan\'92s changes.\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf2 \cb3 \
+\pard\pardeftab720\sl435\sa300\partightenfactor0
+\cf2 Nearly six years later, the fallout from the\'a0legislation\'a0has set off an uproar in the State\'a0Capitol over allegations that the state\'92s $11 billion in economic development programs have been poorly managed corporate giveaways that have brought few benefits to New Jersey.\cb1 \
+\pard\pardeftab720\sl435\partightenfactor0
+\cf2 \cb3 One of the clauses added by Mr. Sheehan to the text of the bill helped a client, Holtec International,\'a0an energy technology company, to claim a tax credit of $260 million in 2014 to build a new headquarters at a port in Camden, N.J.\
+\
+\pard\pardeftab720\sl435\sa300\partightenfactor0
+\cf2 The state\'92s own analysis at the time indicated that for the $260 million tax credit to Holtec, the net benefit to taxpayers would be tiny: $155,520 in potential benefits for the state over 35 years, including new tax revenue, as well as the creation of 235 new jobs and the retention of 160 jobs.\cb1 \
+\cb3 That is about\'a0$650,000 in tax credits for each job.\cb1 \
+\pard\pardeftab720\sl435\partightenfactor0
+\cf2 \cb3 Another clause that Mr. Sheehan inserted into the draft called for a tax credit for a \'93qualified business facility located in a priority area housing the United States headquarters and related facilities of an automobile manufacturer,\'94 the draft of the legislation shows.\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf2 \cb3 \
+\pard\pardeftab720\sl435\sa300\partightenfactor0
+\cf2 That language appeared intended to benefit just one company, Subaru of America, which ended up reaping a $118 million tax credit from the state, according to interviews and documents.\cb1 \
+\cb3 Mr. Sheehan, whose role in the drafting of the legislation has not been disclosed before, declined to be interviewed for this article.\cb1 \
+\cb3 His law firm, Parker McCay,\'a0said in a statement that it \'93was asked by policymakers, including those in the Legislature, to review this legislation and offer input and suggestions on ways it could be strengthened.\'94\cb1 \
+\cb3 Mr. Sheehan did not register to lobby on the 2013 Economic Opportunity Act, and the firm maintained that its work on the legislation did not amount to lobbying.\cb1 \
+\cb3 Parker McCay\'92s chief executive is Philip Norcross,\'a0whose brother is George Norcross,\'a0an insurance executive who is widely considered the most powerful Democratic political leader in southern New Jersey.\cb1 \
+\cb3 Another brother is Donald Norcross,\'a0a former Democratic state senator who represented Camden and who is now a United States representative.\cb1 \
+\pard\pardeftab720\sl435\partightenfactor0
+\cf2 \cb3 As a result of the 2013 legislation, George Norcross\'92s insurance firm, Conner Strong & Buckelew,\'a0also benefited,\'a0receiving\'a0approval for an $86.2 million tax credit to\'a0\cf4 \ul \ulc4 relocate to an 18-story office tower\cf2 \ulnone \'a0in Camden.\
+\pard\pardeftab720\sl435\sa300\partightenfactor0
+\cf2 In all, under the\'a0legislation, the state has granted at least $4.8 billion in tax credits extending well into the future, and it appears that the changes made by Mr. Sheehan helped to significantly increase the program\'92s cost.\
+The bill was approved overwhelmingly by the Democratic-controlled Legislature and signed by the governor at the time, Chris Christie, a Republican, who in recent weeks has contended that the state\'92s economic development programs have been a major success.\
+Mr. Christie and other supporters of the legislation said the programs were the only way to lure companies to economically depressed areas\'a0{\field{\*\fldinst{HYPERLINK "https://www.nytimes.com/2012/09/29/nyregion/overrun-by-crime-camden-trades-in-its-police-force.html?module=inline"}}{\fldrslt \cf4 \ul like Camden}}, a city of 75,000 on the Delaware River across from Philadelphia.\
+The Times\'92s findings about how the Economic Opportunity Act was approved were based on interviews with officials, lawmakers, lobbyists, corporate executives and others, as well as an extensive examination of government records.\
+\pard\pardeftab720\sl435\partightenfactor0
+\cf2 A task force appointed by Gov. Philip D. Murphy, a Democrat elected in 2017, is examining whether the economic development programs, including those created under the Economic Opportunity Act, have delivered significant benefits or have been tilted toward helping politically connected firms and companies.\
+The task force last month\'a0referred evidence to federal prosecutors for possible criminal charges, though it was not immediately known whether the evidence might lead to charges against anyone.\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf2 \cb3 \
+\pard\pardeftab720\sl435\sa300\partightenfactor0
+\cf2 In January, the state comptroller released a\'a0{\field{\*\fldinst{HYPERLINK "https://www.state.nj.us/comptroller/news/docs/eda_final_report.pdf"}}{\fldrslt \cf4 \ul blistering audit that revealed \'93numerous significant deficiencies}}\'94 in the state\'92s economic development programs.\cb1 \
+\cb3 The audit found that the tax credits from the 2013 act seemed to fall short of creating as many jobs as promised, and that the state badly managed the program.\cb1 \
+\cb3 The comptroller did not offer a complete analysis of the jobs created or retained by the legislation. But it did raise significant questions about the state\'92s longstanding policy of granting tax breaks.\cb1 \
+\cb3 It found that from 2005 and 2017, the New Jersey Economic Development Authority, the agency overseeing the tax credits,\'a0had approved 401 projects for tax breaks that were projected to create 50,633 new jobs and retain 33,727 jobs.\cb1 \
+\cb3 The comptroller scrutinized a sample of 48 projects during that time period, projected to create more than 8,700 jobs and retain 6,650 jobs. The audit found that it could not substantiate nearly 3,000 jobs the companies said they had created or retained.\cb1 \
+\cb3 \'93In the end, a lot of companies will make their decisions about where to go, and then kind of game the system to maximize how much in tax credits they can get,\'94 said Jon Whiten,\'a0the deputy director of state communications\'a0at the Center on Budget and Policy Priorities,\'a0a liberal-leaning research organization in Washington.\cb1 \
+\pard\pardeftab720\sl435\partightenfactor0
+\cf2 \cb3 \'93With\'a0all the changes that New Jersey made in 2013, the state just sort of surrendered more of the power in that equation to big businesses looking for bigger tax breaks,\'94 he said.\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf2 \cb3 \
+\pard\pardeftab720\sl435\sa300\partightenfactor0
+\cf2 Mr. Murphy has been an outspoken critic of the state\'92s economic development programs, saying that \'93a full accounting of how as much as $11 billion was squandered is now required.\'94\cb1 \
+\cb3 He recently demanded the\'a0resignation\'a0of five members of the Economic Development Authority. (So far, just one member,\'a0Larry Downes,\'a0the former board chair, has stepped down.)\cb1 \
+\cb3 Mr. Christie accused Mr. Murphy of \'93political assassination\'94 over his criticism of the incentives.\cb1 \
+\cb3 \'93The program works,\'94\'a0Mr. Christie said\'a0at an event last month. \'93You can\'92t win the philosophical argument, so what you do is you vilify and lie about the program.\'94\cb1 \
+\cb3 Democrats in the Legislature who oversaw the passage of the bill, like Stephen M. Sweeney,\'a0the Senate president, have largely defended the program.\cb1 \
+\cb3 \'93We sought and welcomed the advice of a wide range of people who possess experience and expertise in the many aspects of economic development,\'94 Mr.\'a0Sweeney said. \'93Their contributions made it a better bill.\'94\cb1 \
+\cb3 He said the legislation had helped to revitalize Camden and other cities. \'93These are investments that can produce real and lasting improvements,\'94 he said.\cb1 \
+\pard\pardeftab720\sl435\partightenfactor0
+\cf2 \cb3 It is not entirely clear who allowed Mr. Sheehan, the lawyer at Parker McCay, to edit the drafts of the legislation.\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf2 \cb3 \
+\pard\pardeftab720\sl435\sa300\partightenfactor0
+\cf2 Parker McCay has worked for several clients that received large tax breaks, including Holtec and Subaru of America. The law firm did not dispute that Mr. Sheehan made changes to the draft legislation. But firm said the work was not lobbying.\cb1 \
+\cb3 The firm said in a statement, \'93It would be a reckless mischaracterization of Parker McCay\'92s activities to state that Parker McCay was engaged in unregistered lobbying in 2013.\'94\cb1 \
+\cb3 New Jersey\'92s Election Law Enforcement Commission,\'a0which regulates lobbying, declined to comment on Parker McCay or Mr. Sheehan\'92s work on the\'a0legislation.\cb1 \
+\cb3 The commission said that, in general, \'93a lobbyist is defined as someone who is compensated to influence legislation, regulations or governmental processes by communicating with or providing a benefit to a high-level state official.\'94\cb1 \
+\cb3 Donald Norcross, who was a sponsor of the bill when he was in the State Senate, said he was not aware of changes made to the legislation.\cb1 \
+\cb3 In a statement, his office said: \'93Donald Norcross was a champion of the bill, as was every elected official from Camden and virtually every member of the state Legislature. He supported it because he knew it would be good for Camden and the facts are clear that it has been.\'94\cb1 \
+\cb3 Philip Norcross, the chief executive of Parker McCay, declined to comment.\cb1 \
+\pard\pardeftab720\sl435\partightenfactor0
+\cf2 \cb3 George Norcross, the Democratic political leader, said in a statement that he \'93was a cheerleader and advocate for Camden for many years prior to the passage\'94 of the 2013 legislation.\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf2 \cb3 \
+\pard\pardeftab720\sl435\sa300\partightenfactor0
+\cf2 Companies relocating to Camden have been awarded $1.6 billion of the $4.9 billion handed out across the state under the 2013 legislation. The last-minute changes to the bill carved out special bonuses and lenient rules for companies moving there.\cb1 \
+\cb3 Holtec International, the energy technology company, is perhaps the biggest beneficiary in Camden. It began negotiating a move there in the weeks after the Economic Development Act was introduced in early 2013.\cb1 \
+\cb3 Over the following months, the Parker McCay law firm assisted Holtec in its relocation plans as the company sought to qualify for a large tax break when the bill became law, according to emails obtained by The Times.\cb1 \
+\cb3 By mid-June 2013, Holtec executives were told that the New Jersey Economic Development Authority had evaluated its potential application based on the latest version of the legislation and determined that it would qualify for a $121 million tax credit, emails show.\cb1 \
+\cb3 But after Mr. Sheehan and others made revisions to the bill, Holtec\'92s potential credit had jumped to $260 million because of new provisions that allowed companies to receive a tax credit equal to their total capital investment.\cb1 \
+\cb3 That provision pertained only to companies in Camden.\cb1 \
+\cb3 Joy Russell, a senior vice president at Holtec, said in a statement that Mr. Sheehan did not work as a lobbyist for the company, and the company had not asked him to make changes to the legislation.\cb1 \
+\cb3 Ms. Russell said, \'93Parker McCay was Holtec\'92s outside law firm for various matters.\'94\cb1 \
+\pard\pardeftab720\sl435\partightenfactor0
+\cf2 \cb3 Despite Holtec\'92s monthslong pursuit of the Camden project, the company claimed in its application to also be seriously considering a move to Charleston, S.C.\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf2 \cb3 \
+\pard\pardeftab720\sl435\sa300\partightenfactor0
+\cf2 New Jersey\'92s\'a0{\field{\*\fldinst{HYPERLINK "https://www.njeda.com/pdfs/reports/2016-Annual-Report-Narrative-Section.aspx"}}{\fldrslt \cf4 \ul Economic Development Authority said}}\'a0Holtec had received a similar offer of tax credits from South Carolina.\cb1 \
+\cb3 But the mayor of Charleston at the time, Joseph P. Riley Jr., said in an interview that he had never\'a0heard of Holtec\'a0exploring\'a0a move there.\cb1 \
+\cb3 The Charleston Regional Development Alliance,\'a0which recruits companies to the region, said it was also unaware of the company weighing a move there.\cb1 \
+\cb3 Ms. Russell said in the statement that Holtec \'93seriously considered South Carolina to develop its technology campus (and other states).\'94\cb1 \
+\cb3 She did not provide documentation for Holtec\'92s offer of incentives from South Carolina.\cb1 \
+\cb3 Ms. Russell said the Camden project was \'93a true success story\'94 and \'93the gold standard for the program.\'94\cb1 \
+\pard\pardeftab720\sl435\partightenfactor0
+\cf2 \cb3 \'93The incentive programs of New Jersey were the reason Holtec International decided to make the largest private investment in the history of Camden,\'94 she said.\cb1 \
+\cb3 Subaru had its North America headquarters in Cherry Hill, N.J., not far from Camden. But by 2013, the company began indicating that it might leave the state.\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf2 \cb3 \
+\pard\pardeftab720\sl435\sa300\partightenfactor0
+\cf2 The Economic Development Authority awarded the company $118 million to relocate to Camden, saying the deal would result in a net benefit of $168 million in various forms of tax revenue and boosts to local businesses over 35 years. The company would also retain 500 jobs and create 100 more.\cb1 \
+\cb3 Dominick Infante,\'a0director of communications for Subaru of America,said in an email that Mr. Sheehan worked for a real estate developer, Brandywine, which worked on what would eventually become the headquarters of Subaru.\cb1 \
+\cb3 Mr. Sheehan was Brandywine\'92s lawyer on that project, according to public records.\cb1 \
+\cb3 Until this week, the Parker McCay website hailed its success in obtaining \'93hundreds of millions of dollars\'94 in tax credits. It said one of its clients that earned tax credits in Camden was\'a0{\field{\*\fldinst{HYPERLINK "http://www.parkermccay.com/practices-redevelopment"}}{\fldrslt \cf4 \ul an \'93automobile manufacturer.\'94}}\cb1 \
+\pard\pardeftab720\sl435\partightenfactor0
+\cf2 \cb3 But after Parker McCay was contacted by The Times about the 2013 legislation, that section of the law firm\'92s website disappeared.\cb1 \
+\
+\pard\pardeftab720\sl435\sa300\partightenfactor0
+\cf2 \cb3 We have some good news that sounds like bad news: Your gas stove has to go.\cb1 \
+\cb3 We know how you\'92ll feel reading those words. We used to love cooking with gas, too. But if our society is going to solve the climate crisis, one of the things we must do is stop burning gas in our buildings.\cb1 \
+\cb3 Nobody is going to shed a tear about having to switch to a more efficient furnace or water heater. But people feel emotional about gas stoves, and the gas industry knows it. Seeing this fight coming, the industry is already issuing\'a0{\field{\*\fldinst{HYPERLINK "https://c4bes.org/"}}{\fldrslt \cf4 \ul propaganda}}\'a0with gauzy pictures of blue flames.\cb1 \
+\cb3 What the gas companies will not tell you is that your stove is a danger not just to\'a0the world\'92s climate\'a0but also to your own family\'92s health. We\'92ll explain in a moment.\cb1 \
+\pard\pardeftab720\sl435\partightenfactor0
+\cf2 \cb3 First, here\'92s the larger situation: The need to tackle climate change is beyond urgent. We are running out of time. Within the next decade we need to cut climate pollution in half in the United States, roughly, to do our fair part in preserving a livable planet.\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf2 \cb3 \
+\pard\pardeftab720\sl435\sa300\partightenfactor0
+\cf2 Despite the Trump administration, the nation is actually making progress in some areas. We are retiring coal-burning power plants at a record pace, and half of them are already gone. A new wave of\'a0ambition\'a0to address climate change is sweeping across state legislatures this year as more and more commit to 100 percent clean electricity or debate doing so. But despite this progress, the Rhodium Group estimates that climate-altering emissions in the United States\'a0{\field{\*\fldinst{HYPERLINK "https://rhg.com/research/preliminary-us-emissions-estimates-for-2018/"}}{\fldrslt \cf4 \ul increased 3.4 percent}}\'a0last year\'a0from the year before, one of the biggest jumps in decades.\cb1 \
+\cb3 Burning gas is now\'a0{\field{\*\fldinst{HYPERLINK "https://www.eia.gov/todayinenergy/detail.php?id=38773"}}{\fldrslt \cf4 \ul a bigger source}}\'a0of such pollution than burning coal, and nearly a third of that gas is burned in homes and commercial buildings. But despite the rising chorus of climate pledges by state and local governments, none of them has really tackled the problem of gas in buildings. In fact, gas companies are still being allowed to spend billions extending new lines, connections that will have to be capped off long before the end of their useful lives if we are to meet our climate goals.\cb1 \
+\cb3 Getting gas out of existing buildings is going to take a while, clearly, so new buildings are the right place to start weaning ourselves from this addiction. California is poised to go first.\
+In Berkeley, Councilwoman Kate Harrison is proposing a ban on gas hookups in new buildings, part of an effort to make sure the city follows through on its 2018\'a0{\field{\*\fldinst{HYPERLINK "https://www.cityofberkeley.info/uploadedFiles/Council_2/Level_3_-_General/Climate%20Emergency%20Declaration%20-%20Adopted%2012%20June%202018%20-%20BCC.pdf"}}{\fldrslt \cf4 \ul declaration}}\'a0of a \'93climate emergency.\'94 Other cities are studying the issue, and\'a0{\field{\*\fldinst{HYPERLINK "https://www.latimes.com/business/la-fi-garcetti-green-new-deal-los-angeles-20190429-story.html"}}{\fldrslt \cf4 \ul Los Angeles}}\'a0announced an ambitious plan this week. Once California cities show it can be done, we hope action will spread across the country.\
+\pard\pardeftab720\sl435\partightenfactor0
+\cf2 The ultimate goal of this switch-over is to run more and more of the economy on electricity, a strategy known as \'93electrify everything.\'94 This makes sense because as renewable energy displaces fossil fuels, the electric grid will get cleaner and cleaner.\
+\pard\pardeftab720\sl435\partightenfactor0
+\cf2 \cb1 \
+\pard\pardeftab720\sl435\sa300\partightenfactor0
+\cf2 \cb3 People of a certain age may be thinking: Hold on. All-electric \'93Gold Medallion Homes\'94 were a thing half a century ago, at a time when electricity prices were falling. Those homes were promoted heavily by the power industry and by Ronald Reagan, a pitchman for General Electric. But they became albatrosses for their owners when electricity prices eventually rose.\
+Why do all-electric homes make sense now? Because technology has come to the rescue, in the form of devices called\'a0{\field{\*\fldinst{HYPERLINK "https://home.howstuffworks.com/home-improvement/heating-and-cooling/heat-pump.htm"}}{\fldrslt \cf4 \ul heat pumps}}. They run on electricity, but far more efficiently than the electric appliances of our parents\'92 generation. So if we start installing them now, then as the electric grid gets greener, our buildings will be contributing less and less to climate change.\
+You might never have heard of heat pumps, but you already have one in your home. A heat pump is the core technology in your refrigerator. It is basically a loop involving a pump and a compressor that sucks heat out of the interior and blows it into the kitchen, and it can do this even when the interior of your refrigerator is colder than the air in the room.\
+A heat pump can replace both your furnace and your air conditioner. In the winter, it sucks heat in from the outside, even when the weather is cold, and blows it into your house. In the summer, a heat pump runs in reverse, cooling the house. Highly efficient heat-pump water heaters are also widely available.\
+Building a new all-electric home powered by heat pumps is already cheaper than building with gas because you avoid the costs of gas lines and ventilation. For older homes the economics vary; a Rocky Mountain Institute study found the\'a0cost of installing and operating a heat pump over its lifetime can be more expensive or less expensive \'97 plus or minus 10 percent \'97 than having a gas\'a0system. And as heat pumps become standard in new buildings, the market will scale and costs will fall for both new and old homes.\
+Stoves actually use very little energy, but until people are convinced there are superior alternatives to gas stoves, we will not be able to get rid of gas lines to buildings \'97 and start saving large amounts of money by shutting down the gas distribution system.\
+\pard\pardeftab720\sl435\partightenfactor0
+\cf2 Once again, technology has come to the rescue.\'a0{\field{\*\fldinst{HYPERLINK "https://www.consumerreports.org/electric-induction-ranges/pros-and-cons-of-induction-cooktops-and-ranges/"}}{\fldrslt \cf4 \ul Induction cooktops}}, running on electricity, are superior to gas stoves. These devices use magnetic waves to heat up pots, and cooks who have tried them quickly fall in love. The perceived advantage of gas stoves is pinpoint control of heat, but induction cooktops are more precise, and faster. For now, induction cooktops are generally more expensive than gas stoves. At retail, 30-inch gas cooktops generally run $500 to $1,000, while induction cooktops of that size run from $800 to $2,000.\
+\pard\pardeftab720\sl435\sa300\partightenfactor0
+\cf2 A change to induction cooking would make sense even if the climate were not a concern, because gas stoves are polluting our homes. Over the past decade, a growing body of scientific evidence has shown that\'a0{\field{\*\fldinst{HYPERLINK "https://scopeblog.stanford.edu/2018/03/06/use-your-range-hood-for-a-healthier-home-advises-indoor-air-quality-researcher/"}}{\fldrslt \cf4 \ul gas stoves throw off pollutants}}\'a0like nitrogen dioxide and carbon monoxide. When you are cooking, those invisible pollutants can easily reach levels that would be illegal outdoors, but the Clean Air Act does not reach inside the home.\
+Scientists\'a0{\field{\*\fldinst{HYPERLINK "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.277.9376&rep=rep1&type=pdf"}}{\fldrslt \cf4 \ul link}}\'a0gas stoves to asthma attacks and hospitalizations. In 2008, Johns Hopkins scientists urged doctors to advise parents of asthmatic children to get rid of their gas stoves or at least install powerful exhaust hoods. Asthma is a rampant, discriminatory disease, hitting children and communities of color the hardest.\
+For health and climate reasons, we think people who can afford to switch now need not wait for prices to fall. Enlist a good contractor, replace gas appliances with heat pumps and cap off the gas line. At the same time, state incentive programs should be designed to ensure all families can make this transition as quickly as possible, regardless of income.\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 The sooner you make the switch, the sooner you can show off your sleek new induction cooktop to the neighbors and let them know that all-electric living is back, not a moment too soon.\
+\pard\pardeftab720\ri0\partightenfactor0
+
+\f1 \cf0 \cb1 \kerning1\expnd0\expndtw0 In 1980, a Buddhist monk in Tibet entered a sacred cave to pray. On the floor, he found half of a human jawbone, studded with two teeth.\
+\
+A team of scientists on Wednesday reported that the fossil belonged to a 160,000-year-old Denisovan, a member of a lineage of mysterious, Neanderthal-like humans that disappeared about 50,000 years ago.\
+\
+The fossil is the first evidence of this species found outside the Denisova Cave in Siberia, buttressing the theory that these relatives of modern humans once lived across much of central and eastern Asia.\
+\
+\'93I\'92m very excited \'97 we have a Denisovan that\'92s somewhere else than Denisova,\'94 said Bence Viola, a paleoanthropologist at the University of Toronto who was not involved in the new study. \'93We\'92d known about Denisovans for 10 years and hadn\'92t found them anywhere else.\'94\
+\
+The new fossil demonstrates that Denisovans were remarkably hardy, able to endure harsh conditions on the Tibetan plateau, at an elevation of 10,700 feet, with only simple stone tools.\
+\
+The find also suggests that these Denisovans may have evolved genetic adaptations to high altitudes, and that living Tibetans may have inherited those genes thanks to interbreeding between Denisovans and modern humans in prehistoric times.\
+\
+Are you a student?\
+Subscribe for $1/week until you graduate.\
+In the 1970s, Russian researchers began excavating Denisova Cave in Siberia. Over the years, they found a wealth of bones. A few looked like they might have come from humans or an extinct human relative.\
+\
+A virtual reconstruction of the Tibetan jaw in which an adhering crust was digitally removed. \
+Credit\
+Jean-Jacques Hublin, MPI-EVA, Leipzig\
+\
+\
+Image\
+A virtual reconstruction of the Tibetan jaw in which an adhering crust was digitally removed. CreditJean-Jacques Hublin, MPI-EVA, Leipzig\
+Hoping for clues, the archaeologists sent some of the bones to the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany, whose experts excel at retrieving DNA from fossils.\
+\
+Some of the bones contained Neanderthal DNA, it turned out. But in 2010, Max Planck researchers discovered that one finger bone held different genes from an unknown human lineage.\
+\
+Over the past decade, scientists have discovered more Denisovan teeth and bone fragments, including a chunk of a skull. Denisovans appeared to have lived in the cave, off and on, from 287,000 years ago to about 50,000 years ago.\
+\
+Judging from their DNA, Denisovans shared a common ancestor with Neanderthals about 400,000 years ago. They interbred with Neanderthals and with our own species. Today, people in East Asia, Australia, the Pacific islands and the Americas all carry some Denisovan DNA.\
+\
+The spread of Denisovan DNA in living humans strongly suggested that they may have lived throughout East and Southeast Asia. And maybe not just there: Earlier this month, a team of researchers argued that a population of Denisovans reached New Guinea and interbred further with modern humans.\
+\
+But year after year, no one could find a Denisovan fossil outside the Siberian cave.\
+\
+In 2010, Dongju Zhang, an archaeologist at Lanzhou University in China, began studying the Tibetan jaw, which had been languishing in storage at her institution.\
+\
+Right away, she could tell it was humanlike \'97 but not human. \'93We all have chins, but this doesn\'92t have one,\'94 Dr. Zhang said in an interview.\
+\
+Eventually, she located the cave in Tibet where the jaw had been discovered. Monks at a nearby temple told her they regularly found human remains on their visits.\
+\
+Editors\'92 Picks\
+\
+Should These Clothes Be Saved?\
+\
+The Racial Bias Built Into Photography\
+\
+Does This Dress Make Me Look Guilty?\
+\'93They said they were half-bone and half-stone,\'94 said Dr. Zhang.\
+\
+The limestone cave in which the jawbone was found, above riverbed near Xiahe, Tibet. Buddhist monks visiting the cave to pray discovered humanlike remains inside.\
+Credit\
+Dongju Zhang, Lanzhou University\
+\
+\
+Image\
+\
+The limestone cave in which the jawbone was found, above riverbed near Xiahe, Tibet. Buddhist monks visiting the cave to pray discovered humanlike remains inside.CreditDongju Zhang, Lanzhou University\
+When she and her colleagues made a small excavation in the cave, they found ancient tools, a sign of human occupation.\
+\
+She emailed photos of the jaw to Jean-Jacques Hublin, a paleoanthropologist at the Max Planck Institute. Intrigued, he traveled to China to examine the fossil, and soon he and Dr. Zhang had begun a collaboration with other experts to learn more.\
+\
+Chuan-Chou Shen and Tsai-Luen Yu of National Taiwan University handled the task of figuring out how old it was. The jaw still had bits of rock stuck to it, and these contained uranium. By measuring the uranium\'92s decay into thorium, Dr. Shen and Dr. Yu were able to estimate the bone\'92s age.\
+\
+The jaw turned out to be at least 160,000 years old, by far the oldest evidence of humans on the Tibetan plateau. Its antiquity also supported the scientists\'92 hunch that it did not belong to our own species.\
+\
+DNA could reveal its true identity. But Qiaomei Fu, a geneticist at the Institute of Vertebrate Paleontology and Paleoanthropology in Beijing, found that no genetic material had survived.\
+\
+Fortunately, other biological molecules can be found in fossils. At Max Planck, Frido Welker, a molecular anthropologist, discovered ancient proteins in the jawbone\'92s teeth.\
+\
+Sign up for Science Times\
+We\'92ll bring you stories that capture the wonders of the human body, nature and the cosmos.\
+\
+SIGN UP\
+The proteins were not from modern humans; instead, they were a match to Denisovan DNA from Siberia.\
+\
+With the new discovery and other recent finds, a picture of the Denisovans has grown clearer. Everything about their heads seems to have been big, from their giant molars to their thick jaws to their massive brain cases. Dr. Viola speculated adults may have weighed well over 200 pounds.\
+\
+\'93I\'92d assume they\'92d be very large and robust individuals,\'94 he said. \'93These are like football players.\'94\
+\
+The discovery of Denisovans living at high altitude is intriguing for another reason: Tibetans today share a special genetic link to Denisovans.\
+\
+The cave in which the jawbone was found sits in a rugged valley.\
+Credit\
+Dongju Zhang, Lanzhou University\
+\
+\
+Image\
+\
+The cave in which the jawbone was found sits in a rugged valley.CreditDongju Zhang, Lanzhou University\
+When most people travel to high elevations, they respond to the low level of oxygen by making extra hemoglobin in their red blood cells.\
+\
+[Like the Science Times page on Facebook. | Sign up for the Science Times newsletter.]\
+\
+\'93That\'92s bad, because it makes your blood thick,\'94 said Emilia Huerta-Sanchez, a population geneticist at Brown University who was not involved in the new study.\
+\
+But many Tibetans don\'92t make extra hemoglobin, thanks to an unusual version of a gene they carry called EPAS1. In 2014, Dr. Huerta-Sanchez and her colleagues discovered that this unusual gene came from Denisovans.\
+\
+How did Denisovans end up with a gene that promotes health at high altitudes? And how did it end up becoming so common in Tibetans but so rare in other people?\
+\
+Until scientists find DNA from Tibetan Denisovans, the history won\'92t be clear, Dr. Huerta-Sanchez said.\
+\
+\'93We don\'92t know the order of events,\'94 she said. \'93But Denisovans are such a mysterious group that anything we learn is exciting.\'94\
+\
+In recent decades, Chinese paleontologists have found a number of puzzling bones that are almost human and are tens or hundreds of thousands of years old.\
+\
+Researchers now may compare them to the Tibetan jaw, and search the fossils for ancient proteins.\
+\
+\'93Denisovans are already somewhere in a museum drawer,\'94 Dr. Welker predicted. \'93We just haven\'92t been able to link them together yet.\'94\
+\pard\pardeftab720\sl420\partightenfactor0
+
+\f0 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\
+\cb1 \
+\pard\pardeftab720\sl435\partightenfactor0
+\cf2 \
+}
